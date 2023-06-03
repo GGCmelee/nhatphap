@@ -1,0 +1,45 @@
+/* start header */
+#header {
+  height: 300px;
+  background-color: aqua;
+}
+.logo {
+  padding: 10px;
+  width: 200px;
+  float: left;
+}
+.tieu_de {
+  text-align: center;
+  padding-top: 70px;
+}
+.tieu_de h1 {
+  font-size: 50px;
+ }
+/* end header */
+/* start main content */
+#thong_tin_nv  {
+
+  background-color: yellow;
+}
+#thong_tin_nv h1{
+  text-align: center;
+    color:rgba(0, 0, 0, 0.945) ;
+}
+#thong_tin_nv table{
+  margin-left: 500px;
+  width: 600px;
+  border:1px solid black;
+}
+#thong_tin_nv tr,td{
+border: 1px dashed black ;
+}
+/* end main content */
+/* start footer */
+#footer h1{
+  text-align: center;
+  font-size: 70px;
+}
+.v{
+  background-color: red;
+}
+/* end footer */
