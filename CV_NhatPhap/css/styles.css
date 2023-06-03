@@ -1,0 +1,15 @@
+body{
+   font-family: 'Phudu', cursive;
+}
+.info{
+    color:rgb(255, 0, 0);
+}
+.img{
+    float: right;
+}
+img{
+    width: 200px;
+}
+.section{
+    margin: 50px
+}
